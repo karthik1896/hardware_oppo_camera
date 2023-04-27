@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt" android:shareInterpolator="false" android:zAdjustment="normal">
+    <translate android:interpolator="@interpolator/oppo_open_slide_translate_interpolator" android:duration="283" android:fillBefore="false" android:fillAfter="true" android:fromXDelta="0%" android:toXDelta="-6.5%" android:fillEnabled="true"/>
+    <alpha android:interpolator="@interpolator/oppo_open_slide_alpha_interpolator" android:duration="283" android:fillBefore="false" android:fillAfter="true" android:fromAlpha="1" android:toAlpha="0.7" android:fillEnabled="true"/>
+</set>

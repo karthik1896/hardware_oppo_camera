@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.oppo.camera.ui.preview.IntelligentDragView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/slow_video_motion_detect_view" android:background="@drawable/intelligent_drag_view" android:visibility="gone" android:layout_width="@dimen/video_intelligent_high_frame_dectect_width" android:layout_height="@dimen/video_intelligent_high_frame_dectect_height"/>

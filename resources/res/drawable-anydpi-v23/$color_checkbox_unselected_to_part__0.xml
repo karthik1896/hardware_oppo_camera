@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:height="24dp" android:width="24dp" android:viewportWidth="72" android:viewportHeight="72">
+    <group android:name="_R_G">
+        <group android:name="_R_G_L_2_G" android:scaleX="1" android:scaleY="1" android:translateX="36" android:translateY="36">
+            <path android:name="_R_G_L_2_G_D_0_P_0" android:pathData=" M22 -10 C22,-10 22,10 22,10 C22,16.62 16.62,22 10,22 C10,22 -10,22 -10,22 C-16.62,22 -22,16.62 -22,10 C-22,10 -22,-10 -22,-10 C-22,-16.62 -16.62,-22 -10,-22 C-10,-22 10,-22 10,-22 C16.62,-22 22,-16.62 22,-10c " android:strokeColor="@color/color_btn_check_color_off_normal" android:strokeWidth="4" android:strokeLineCap="square" android:strokeLineJoin="round"/>
+        </group>
+        <group android:name="_R_G_L_1_G" android:scaleX="1.2" android:scaleY="1.2" android:translateX="36" android:translateY="36">
+            <path android:name="_R_G_L_1_G_D_0_P_0" android:fillColor="?attr/colorPrimaryColor" android:pathData=" M24 -12 C24,-12 24,12 24,12 C24,18.62 18.62,24 12,24 C12,24 -12,24 -12,24 C-18.62,24 -24,18.62 -24,12 C-24,12 -24,-12 -24,-12 C-24,-18.62 -18.62,-24 -12,-24 C-12,-24 12,-24 12,-24 C18.62,-24 24,-18.62 24,-12c " android:fillAlpha="0" android:fillType="0"/>
+        </group>
+        <group android:name="_R_G_L_0_G" android:scaleY="0" android:translateX="36" android:translateY="36">
+            <path android:name="_R_G_L_0_G_D_0_P_0" android:pathData=" M-11 0 C-11,0 11.25,0 11.25,0 C11.25,0 -11,0 -11,0c " android:strokeColor="@color/color_btn_check_inner_color_on_normal" android:strokeWidth="4" android:trimPathStart="1" android:trimPathEnd="1" android:trimPathOffset="0" android:strokeLineCap="square" android:strokeLineJoin="round" android:strokeAlpha="1"/>
+        </group>
+    </group>
+    <group android:name="time_group"/>
+</vector>

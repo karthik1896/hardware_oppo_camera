@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">លុបធាតុ %1$d</item>
+        <item quantity="other">លុបធាតុ %1$d</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">បានជ្រើសរើស %d</item>
+        <item quantity="other">បានជ្រើសរើស %d</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">ការជូនដំណឹងថ្មី %d</item>
+        <item quantity="other">ការជូនដំណឹងថ្មីៗ %d</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">បានជ្រើសស្ទីគ័រ %1$d</item>
+        <item quantity="other">បានជ្រើសស្ទីគ័រ %1$d</item>
+    </plurals>
+</resources>

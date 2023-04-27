@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">%1$d ഇനം ഇല്ലാതാക്കുക</item>
+        <item quantity="other">%1$d ഇനങ്ങൾ ഇല്ലാതാക്കുക</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d തിരഞ്ഞെടുത്തു</item>
+        <item quantity="other">%d തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d പുതിയ അറിയിപ്പ്</item>
+        <item quantity="other">%d പുതിയ അറിയിപ്പുകൾ</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">%1$d സ്റ്റിക്കർ തിരഞ്ഞെടുത്തു</item>
+        <item quantity="other">%1$d സ്റ്റിക്കറുകൾ തിരഞ്ഞെടുത്തു</item>
+    </plurals>
+</resources>

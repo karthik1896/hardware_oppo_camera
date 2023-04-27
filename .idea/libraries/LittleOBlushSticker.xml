@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="LittleOBlushSticker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/assets/sticker/material/normal/LittleOBlushSticker.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

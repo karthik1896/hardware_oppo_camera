@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">Slet %1$d element</item>
+        <item quantity="other">Slet %1$d elementer</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d valgt</item>
+        <item quantity="other">%d valgt</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d ny meddelelse</item>
+        <item quantity="other">%d nye meddelelser</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">%1$d Mærkater valgt</item>
+        <item quantity="other">%1$d Mærkater valgt</item>
+    </plurals>
+</resources>

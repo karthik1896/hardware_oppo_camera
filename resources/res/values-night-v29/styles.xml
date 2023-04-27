@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppBaseTheme">
+        <item name="?0x101058c">true</item>
+        <item name="?0x1010590">true</item>
+        <item name="enableFollowSystemForceDarkRank">true</item>
+    </style>
+    <style name="ThemeOverrideBase">
+        <item name="android:backgroundDimAmount">0.7</item>
+    </style>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_internet_label_button_height">35dp</dimen>
+    <dimen name="color_internet_label_paddingleft">18dp</dimen>
+    <dimen name="color_internet_lable_textsize">14sp</dimen>
+    <dimen name="color_support_menu_width">310dp</dimen>
+</resources>

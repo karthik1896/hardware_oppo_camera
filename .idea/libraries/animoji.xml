@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="animoji">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/resources/assets/sticker/material/animoji/snowleopard_v_0_0_0_9.zip!/" />
+      <root url="jar://$PROJECT_DIR$/resources/assets/sticker/material/animoji/data.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

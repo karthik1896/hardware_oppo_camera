@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">Element %1$d löschen</item>
+        <item quantity="other">Elemente %1$d löschen</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d ausgewählt</item>
+        <item quantity="other">%d ausgewählt</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d neue Mitteilung</item>
+        <item quantity="other">%d neue Mitteilungen</item>
+    </plurals>
+</resources>

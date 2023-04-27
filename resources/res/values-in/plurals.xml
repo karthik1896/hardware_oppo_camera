@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">Hapus %1$d item</item>
+        <item quantity="other">Hapus %1$d item</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d telah dipilih</item>
+        <item quantity="other">%d telah dipilih</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d notifikasi baru</item>
+        <item quantity="other">%d notifikasi baru</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">%1$d Stiker Dipilih</item>
+        <item quantity="other">%1$d Stiker Dipilih</item>
+    </plurals>
+</resources>

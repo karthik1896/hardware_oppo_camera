@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_gravity="center" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+    <com.oppo.camera.ui.RotateImageView android:id="@+id/sticker_image" android:background="@drawable/sticker_grid_item_dark" android:layout_width="@dimen/sticker_gridview_image_width" android:layout_height="@dimen/sticker_gridview_image_height" android:scaleType="fitCenter" android:layout_centerInParent="true"/>
+    <ImageView android:id="@+id/highlight" android:visibility="gone" android:layout_width="@dimen/sticker_gridview_highlight_width" android:layout_height="@dimen/sticker_gridview_highlight_height" android:src="@drawable/sticker_grid_item_highlight" android:scaleType="fitCenter" android:layout_centerInParent="true"/>
+    <com.oppo.camera.ui.LoaddingProgress android:id="@+id/loadingView" android:visibility="gone" android:layout_width="@dimen/color_loading_view_default_length" android:layout_height="@dimen/color_loading_view_default_length" android:src="@drawable/sticker_grid_item_loading" android:layout_centerInParent="true"/>
+</RelativeLayout>

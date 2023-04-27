@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">I-delete ang %1$d item</item>
+        <item quantity="other">I-delete ang %1$d (na) item</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d ang napili</item>
+        <item quantity="other">%d ang napili</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d bagong notification</item>
+        <item quantity="other">%d (na) bagong notification</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">%1$d Sticker Pinili</item>
+        <item quantity="other">%1$d Sticker Pinili</item>
+    </plurals>
+</resources>

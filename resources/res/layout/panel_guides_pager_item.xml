@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent">
+    <androidx.appcompat.widget.LinearLayoutCompat android:gravity="top|center_vertical|center_horizontal|center" android:orientation="horizontal" android:id="@+id/guide_tips_container" android:paddingTop="10dp" android:paddingBottom="20dp" android:layout_width="match_parent" android:layout_height="wrap_content" android:minHeight="72.5dp" android:paddingStart="24dp" android:paddingEnd="24dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+        <ImageView android:id="@+id/tips_icon_im" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/panel_guides_tipsicon"/>
+        <androidx.appcompat.widget.AppCompatTextView android:textSize="16sp" android:textStyle="bold" android:textColor="@color/color_0_degree_gray" android:id="@+id/guide_tips_tv" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textDirection="locale" android:layout_marginStart="12dp"/>
+    </androidx.appcompat.widget.LinearLayoutCompat>
+    <ImageView android:layout_gravity="bottom" android:id="@+id/pager_item_im" android:layout_width="match_parent" android:layout_height="match_parent" android:layout_marginLeft="27dp" android:layout_marginRight="28dp" android:layout_marginBottom="20dp" android:scaleType="center"/>
+</androidx.appcompat.widget.LinearLayoutCompat>

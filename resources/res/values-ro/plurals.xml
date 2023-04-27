@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">Ștergeți %1$d element</item>
+        <item quantity="other">Ștergeți %1$d elemente</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d selectată</item>
+        <item quantity="other">%d selectate</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d notificare nouă</item>
+        <item quantity="other">%d notificări noi</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">%1$d sticker selectat</item>
+        <item quantity="other">%1$d stickere selectate</item>
+    </plurals>
+</resources>

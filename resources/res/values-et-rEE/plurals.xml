@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">Kustuta %1$d üksus</item>
+        <item quantity="other">Kustuta %1$d üksust</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d valitud</item>
+        <item quantity="other">%d valitud</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">%1$d kleebis valitud</item>
+        <item quantity="other">%1$d kleebist valitud</item>
+    </plurals>
+</resources>

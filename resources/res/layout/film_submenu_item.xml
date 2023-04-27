@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:layout_width="match_parent" android:layout_height="@dimen/drawer_height" android:splitMotionEvents="false">
+    <com.oppo.camera.ui.menu.OppoTextView android:textSize="@dimen/movie_submenu_item_title_text_size" android:textColor="@color/camera_white" android:id="@+id/submenu_item_title" android:layout_width="wrap_content" android:layout_height="@dimen/movie_submenu_item_title_height" android:layout_marginTop="@dimen/movie_submenu_item_title_margin_top" android:layout_marginBottom="@dimen/movie_submenu_item_title_margin_bottom" android:layout_marginStart="@dimen/movie_submenu_item_title_margin_start"/>
+</FrameLayout>

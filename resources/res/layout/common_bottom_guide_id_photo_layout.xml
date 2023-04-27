@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:orientation="vertical" android:id="@+id/bottom_sheet_cv" android:layout_width="match_parent" android:layout_height="wrap_content">
+    <androidx.viewpager2.widget.ViewPager2 android:id="@+id/guide_content_container" android:clickable="false" android:layout_width="match_parent" android:layout_height="wrap_content" android:layout_marginTop="10dp" android:layout_marginBottom="10dp"/>
+    <color.support.v7.widget.pageindicator.ColorPageIndicator android:layout_gravity="bottom|center_vertical|center_horizontal|center" android:id="@+id/guide_content_indicator" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="30dp" app:dotColor="@color/color_40_degree_gray" app:dotSize="6dp" app:dotSpacing="3dp" app:dotStrokeWidth="0.7dp" app:traceDotColor="@color/color_40_degree_gray"/>
+</LinearLayout>

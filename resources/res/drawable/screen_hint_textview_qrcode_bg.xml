@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:shape="rectangle">
+    <solid android:color="@color/color_black_with_30_percent_transparency"/>
+    <corners android:radius="@dimen/camera_hint_text_radius"/>
+    <padding android:left="@dimen/qr_code_padding_left" android:top="@dimen/qr_code_padding_top" android:right="@dimen/qr_code_padding_right" android:bottom="@dimen/qr_code_padding_bottom"/>
+    <stroke android:width="@dimen/qr_code_jump_stroke_width" android:color="@color/color_white_with_10_percent_transparency"/>
+</shape>

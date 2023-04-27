@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="color_internet_label_button_gap">6dp</dimen>
+    <dimen name="color_internet_label_button_height">31dp</dimen>
+    <dimen name="color_internet_label_button_paddingleft">10dp</dimen>
+    <dimen name="color_internet_label_paddingleft">16dp</dimen>
+    <dimen name="color_internet_lable_textsize">12sp</dimen>
+    <dimen name="color_search_linear_divider_width">1px</dimen>
+</resources>

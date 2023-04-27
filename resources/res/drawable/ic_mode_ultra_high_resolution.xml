@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:name="vector" android:height="32dp" android:width="32dp" android:viewportWidth="96" android:viewportHeight="96">
+    <group android:name="group_1">
+        <path android:name="path_width" android:pathData="M 39 79 L 17 79 L 17 57 M 79 57 L 79 79 L 57 79 M 57 17 L 79 17 L 79 39 M 17 39 L 17 17 L 39 17" android:strokeColor="@color/camera_white" android:strokeWidth="4"/>
+        <path android:name="path_1" android:fillColor="@color/camera_white" android:pathData="M 43 43 L 53 43 L 53 53 L 43 53 Z" android:strokeWidth="1"/>
+        <path android:name="path_2" android:fillColor="@color/camera_white" android:pathData="M 29 43 L 39 43 L 39 53 L 29 53 Z" android:strokeWidth="1" android:fillAlpha="0.7"/>
+        <path android:name="path_3" android:fillColor="@color/camera_white" android:pathData="M 15 43 L 25 43 L 25 53 L 15 53 Z" android:strokeWidth="1" android:fillAlpha="0.3"/>
+        <path android:name="path_4" android:fillColor="@color/camera_white" android:pathData="M 57 43 L 67 43 L 67 53 L 57 53 Z" android:strokeWidth="1" android:fillAlpha="0.7"/>
+        <path android:name="path_5" android:fillColor="@color/camera_white" android:pathData="M 71 43 L 81 43 L 81 53 L 71 53 Z M 43 71 L 53 71 L 53 81 L 43 81 Z" android:strokeWidth="1" android:fillAlpha="0.3"/>
+        <path android:name="path_6" android:fillColor="@color/camera_white" android:pathData="M 43 29 L 53 29 L 53 39 L 43 39 Z" android:strokeWidth="1" android:fillAlpha="0.7"/>
+        <path android:name="path_7" android:fillColor="@color/camera_white" android:pathData="M 29 29 L 39 29 L 39 39 L 29 39 Z M 57 29 L 67 29 L 67 39 L 57 39 Z" android:strokeWidth="1" android:fillAlpha="0.3"/>
+        <path android:name="path_8" android:fillColor="@color/camera_white" android:pathData="M 43 57 L 53 57 L 53 67 L 43 67 Z" android:strokeWidth="1" android:fillAlpha="0.7"/>
+        <path android:name="path_9" android:fillColor="@color/camera_white" android:pathData="M 29 57 L 39 57 L 39 67 L 29 67 Z M 57 57 L 67 57 L 67 67 L 57 67 Z M 43 15 L 53 15 L 53 25 L 43 25 Z" android:strokeWidth="1" android:fillAlpha="0.3"/>
+    </group>
+</vector>

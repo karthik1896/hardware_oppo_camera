@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="camera_shooting_reference_delete_item">
+        <item quantity="one">Izbriši %1$d element</item>
+        <item quantity="other">Izbriši %1$d elemente</item>
+    </plurals>
+    <plurals name="camera_shooting_reference_select_item">
+        <item quantity="one">%d izbran</item>
+        <item quantity="other">%d izbranih</item>
+    </plurals>
+    <plurals name="red_dot_with_number_description">
+        <item quantity="one">%d novo obvestilo</item>
+        <item quantity="other">Št. novih obvestil: %d</item>
+    </plurals>
+    <plurals name="sticker_recycle_bin_title_has_selected">
+        <item quantity="one">Izbrana je %1$d nalepka</item>
+        <item quantity="other">Št. izbranih nalepk: %1$d</item>
+    </plurals>
+</resources>

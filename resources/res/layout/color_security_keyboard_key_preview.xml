@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:textSize="22dp" android:textColor="#ffffff" android:gravity="center" android:id="@+id/color_key_preview" android:background="@drawable/color_security_password_popup_bg" android:layout_width="wrap_content" android:layout_height="wrap_content"/>

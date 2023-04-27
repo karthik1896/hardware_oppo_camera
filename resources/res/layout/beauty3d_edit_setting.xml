@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt" android:id="@+id/beauty3d_edit_setting" android:background="@color/background_color" android:layout_width="match_parent" android:layout_height="@dimen/beauty3d_scan_setting_height">
+    <RelativeLayout android:id="@+id/beauty3d_custom_setting" android:visibility="gone" android:layout_width="match_parent" android:layout_height="match_parent">
+        <TextView android:textSize="@dimen/camera_text_size_big" android:textColor="@color/camera_white" android:gravity="center" android:id="@+id/custom_title" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="@dimen/beauty3d_padding" android:text="@string/beauty3d_customize_face"/>
+        <TextView android:textSize="@dimen/camera_text_size_normal" android:textColor="@color/beauty3d_text_color_selector" android:gravity="center" android:id="@+id/custom_rescan" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginRight="@dimen/beauty3d_padding" android:text="@string/beauty3d_rescan" android:layout_alignParentRight="true"/>
+    </RelativeLayout>
+    <TextView android:textSize="@dimen/camera_text_size_big" android:textColor="@color/camera_white" android:gravity="center" android:id="@+id/beauty3d_title" android:layout_width="wrap_content" android:layout_height="match_parent" android:layout_marginLeft="@dimen/beauty3d_padding" android:text="@string/beauty3d_title"/>
+</RelativeLayout>

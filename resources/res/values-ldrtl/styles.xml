@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearance.ColorSupport">
+        <item name="android:textSize">@dimen/oppo_textview_text_size</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="Widget.ColorSupport.EditText">
+        <item name="android:textSize">@dimen/oppo_edittext_text_size</item>
+        <item name="android:minHeight">@dimen/oppo_edit_text_height_min</item>
+        <item name="android:editTextColor">@color/color_edit_text_color</item>
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="Widget.ColorSupport.ExpandableListView">
+        <item name="android:groupIndicator">@drawable/oppo_expander_group</item>
+        <item name="android:childDivider">@drawable/color_divider_horizontal_default</item>
+        <item name="android:indicatorStart">?android:attr/expandableListPreferredItemIndicatorLeft</item>
+        <item name="android:indicatorEnd">?android:attr/expandableListPreferredItemIndicatorRight</item>
+    </style>
+    <style name="Widget.ColorSupport.ProgressBar">
+        <item name="android:maxWidth">48dp</item>
+        <item name="android:maxHeight">48dp</item>
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateDuration">3500</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:minWidth">48dp</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:mirrorForRtl">true</item>
+    </style>
+    <style name="Widget.ColorSupport.SeekBar">
+        <item name="android:paddingLeft">8dp</item>
+        <item name="android:paddingRight">8dp</item>
+        <item name="android:focusable">true</item>
+        <item name="android:maxHeight">50dp</item>
+        <item name="android:indeterminateOnly">false</item>
+        <item name="android:indeterminateDrawable">@drawable/oppo_progress_horizontal</item>
+        <item name="android:progressDrawable">@drawable/oppo_progress_horizontal</item>
+        <item name="android:minHeight">50dp</item>
+        <item name="android:thumb">@drawable/oppo_seek_thumb</item>
+        <item name="android:thumbOffset">8dp</item>
+        <item name="android:mirrorForRtl">true</item>
+    </style>
+    <style name="Widget.ColorSupport.TextView">
+        <item name="android:textAlignment">viewStart</item>
+    </style>
+    <style name="Widget.ColorSupport.Toolbar">
+        <item name="android:paddingLeft">18dp</item>
+        <item name="android:paddingRight">18dp</item>
+        <item name="android:minHeight">44dp</item>
+        <item name="minTitleTextSize">16dp</item>
+        <item name="supportButtonGravity">16</item>
+        <item name="supportCollapseContentDescription">@string/support_abc_toolbar_collapse_description</item>
+        <item name="supportCollapseIcon">?attr/homeAsUpIndicator</item>
+        <item name="supportContentInsetEnd">15dp</item>
+        <item name="supportContentInsetStart">24dp</item>
+        <item name="supportMaxButtonHeight">44dp</item>
+        <item name="supportSubtitleTextAppearance">@style/TextAppearance.ColorSupport.AppCompatSupport.Toolbar.SubTitle</item>
+        <item name="supportTitleMarginBottom">1dp</item>
+        <item name="supportTitleMarginStart">12dp</item>
+        <item name="supportTitleMargins">4dp</item>
+        <item name="supportTitleTextAppearance">@style/TextAppearance.ColorSupport.AppCompatSupport.Toolbar.Title</item>
+    </style>
+    <style name="Widget.ColorSupport.Toolbar.Button.Navigation">
+        <item name="android:paddingLeft">@dimen/color_action_bar_navigation_padding_end_material</item>
+        <item name="android:paddingRight">@dimen/color_action_bar_navigation_padding_start_material</item>
+    </style>
+</resources>
